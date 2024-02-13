@@ -1,0 +1,11 @@
+/.vs*
+.vs*
+/src/vs*
+/src/not*
+/src/tes*
+/*.exe
+/src/*.exe
+/openssl/*
+/VM.exe
+/src/fun/Talk*
+/src/VM.exe
